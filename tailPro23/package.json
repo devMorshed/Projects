@@ -1,0 +1,15 @@
+{
+  "name": "tailpro23",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tail": "tailwindcss -i ./src/input.css -o ./output/main.css -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
