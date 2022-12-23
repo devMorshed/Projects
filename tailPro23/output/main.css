@@ -513,6 +513,180 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.text-center {
-  text-align: center;
+.absolute {
+  position: absolute;
+}
+
+.relative {
+  position: relative;
+}
+
+.top-5 {
+  top: 1.25rem;
+}
+
+.left-10 {
+  left: 2.5rem;
+}
+
+.left-3 {
+  left: 0.75rem;
+}
+
+.left-32 {
+  left: 8rem;
+}
+
+.left-2 {
+  left: 0.5rem;
+}
+
+.left-24 {
+  left: 6rem;
+}
+
+.left-4 {
+  left: 1rem;
+}
+
+.left-44 {
+  left: 11rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.h-1\/2 {
+  height: 50%;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.w-7 {
+  width: 1.75rem;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.w-5 {
+  width: 1.25rem;
+}
+
+.w-52 {
+  width: 13rem;
+}
+
+.min-w-full {
+  min-width: 100%;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.bg-yellow-500 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(234 179 8 / var(--tw-bg-opacity));
+}
+
+.bg-yellow-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(254 252 232 / var(--tw-bg-opacity));
+}
+
+.bg-gray-50 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(249 250 251 / var(--tw-bg-opacity));
+}
+
+.bg-\[\] {
+  background-color: ;
+}
+
+.bg-\[\.\] {
+  background-color: .;
+}
+
+.bg-\[\.\/\] {
+  background-color: ./;
+}
+
+.bg-\[\"\"\] {
+  background-color: "";
+}
+
+.bg-\[\"\.\/\"\] {
+  background-color: "./";
+}
+
+.bg-\[\'\.\/\'\] {
+  background-color: './';
+}
+
+.bg-\[\'\'\] {
+  background-color: '';
+}
+
+.bg-\[ur\'\'\] {
+  background-color: ur'';
+}
+
+.bg-\[url\'\'\] {
+  background-color: url'';
+}
+
+.bg-\[url\(\)\'\'\] {
+  background-image: url()'';
+}
+
+.bg-\[url\(\'\/img\/hero\.jpg\'\)\] {
+  background-image: url('/img/hero.jpg');
+}
+
+.bg-contain {
+  background-size: contain;
+}
+
+.bg-cover {
+  background-size: cover;
+}
+
+.bg-center {
+  background-position: center;
+}
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
+
+.p-10 {
+  padding: 2.5rem;
+}
+
+.text-lg {
+  font-size: 1.125rem;
+  line-height: 1.75rem;
+}
+
+.text-4xl {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.bg-blend-soft-light {
+  background-blend-mode: soft-light;
 }
